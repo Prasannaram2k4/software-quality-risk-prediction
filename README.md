@@ -26,7 +26,7 @@ The presentations also discuss a cloud-based MLP approach; the supplied Flask co
 
 ## Working demo
 
-[Watch the working video](Working%20Video/WORKING.mp4).
+[Watch the working demo on Google Drive](https://drive.google.com/file/d/1nedXx2J-WM00mkR7zcalhTJZmjlCj0G4/view?usp=sharing).
 
 ## Project materials
 
